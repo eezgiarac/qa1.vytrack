@@ -1,9 +1,10 @@
-package java.com.vytrack.step_definitions;
+package com.vytrack.step_definitions;
+
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
 
 import com.vytrack.pages.VehicleContractPage;
 import com.vytrack.utilities.BrowserUtils;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
 
 public class BasePageStepDefs {
 
